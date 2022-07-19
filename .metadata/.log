@@ -588,3 +588,48 @@ java.util.concurrent.TimeoutException
 	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
 	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-18 16:12:59.252
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-18 16:12:59.257
+!MESSAGE classpath=109 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-18 16:12:59.261
+!MESSAGE buffering callback sts4.classpath.HvyLgCXd dsmeta false 109
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-18 16:12:59.263
+!MESSAGE executing callback sts4.classpath.HvyLgCXd 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-18 16:12:59.278
+!MESSAGE executing callback sts4.classpath.HvyLgCXd SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-18 16:13:22.644
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-18 16:13:22.647
+!MESSAGE classpath=109 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-18 16:13:22.648
+!MESSAGE buffering callback sts4.classpath.HvyLgCXd dsmeta false 109
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-18 16:13:22.649
+!MESSAGE executing callback sts4.classpath.HvyLgCXd 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-18 16:13:22.665
+!MESSAGE executing callback sts4.classpath.HvyLgCXd SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-18 16:14:02.565
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-18 16:14:02.567
+!MESSAGE classpath=109 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-18 16:14:02.568
+!MESSAGE buffering callback sts4.classpath.HvyLgCXd dsmeta false 109
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-18 16:14:02.568
+!MESSAGE executing callback sts4.classpath.HvyLgCXd 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-18 16:14:02.584
+!MESSAGE executing callback sts4.classpath.HvyLgCXd SUCCESS [done]
